@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Web\Projects\excel to mysql\bin\Debug\excel to mysql.exe.config
+C:\Users\User\Documents\Web\Projects\excel to mysql\bin\Debug\excel to mysql.exe
+C:\Users\User\Documents\Web\Projects\excel to mysql\bin\Debug\excel to mysql.pdb
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel to mysql.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel_to_mysql.Form1.resources
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel_to_mysql.Properties.Resources.resources
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel to mysql.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel to mysql.exe
+C:\Users\User\Documents\Web\Projects\excel to mysql\obj\Debug\excel to mysql.pdb
